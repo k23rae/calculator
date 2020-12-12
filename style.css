@@ -1,0 +1,11 @@
+body {
+  background: lightskyblue;
+  text-align: center;
+  border: dotted;
+  padding: 50px;
+}
+
+h1 {
+  font-family: 'Grenze Gotisch', cursive;
+  color: purple;
+}
