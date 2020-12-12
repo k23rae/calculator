@@ -1,4 +1,5 @@
 /* https://repl.it/join/ybjpmsrm-coachmalika */
+//this code will use jquery to select from input tags
 
 $("form").submit(function(e) {
   e.preventDefault();
